@@ -1,0 +1,20 @@
+.banner {
+    background-image:url(../../IMAGES/luna.jpg);
+    background-position: center;
+    background-size: cover;
+    color: black;
+    padding: 150px 0;
+}
+
+.banner h1{
+    font-size: 54px;
+}
+
+.banner p{
+    font-size: 24px;
+    background-size: cover;
+    background-position: top;
+    padding-left: 12px;
+    margin: 20px;
+    
+}

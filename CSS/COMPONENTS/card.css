@@ -1,0 +1,53 @@
+.card{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	text-align: center;
+	padding: 12px;
+	border-radius: 8px;
+	background: whi;
+	width: 800px;
+	color: black;
+	border-radius: black;
+	border: solid 3px;
+	padding: 24px;
+	margin: 12px auto;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+	height: 100px;
+	flex-grow: 1px;
+	flex-basis: 500px;
+}
+
+.card img{
+	width: 132px;
+	height: 132px;
+	border-radius: 12px;
+}
+
+.contact{
+	text-align: center;
+	align-content: center;
+	align-items: center;
+	padding: 12px;
+	color: black;
+	border-radius: 8px;
+	background: grey;
+	width: 800px;
+	border: solid 3px;
+	border-color: black;
+	padding: 24px;
+	margin: 12px auto;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.3);
+
+}
+
+.liste{
+	list-style: none;
+	margin-left: 0;
+	padding-left: 0;
+	color: black;
+}
+
+a{
+	color: black;
+}

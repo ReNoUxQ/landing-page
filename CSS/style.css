@@ -1,0 +1,20 @@
+@import url(COMPONENTS/container.css);
+@import url(COMPONENTS/card.css);
+@import url(COMPONENTS/button.css);
+@import url(COMPONENTS/banner.css);
+@import url(COMPONENTS/avatar.css);
+@import url(COMPONENTS/navbar.css);
+@import url(COMPONENTS/card-grid.css);
+
+h1, h2, h3 {
+	font-family: "roboto", sans-serif;
+	font-weight: 500;
+	padding-left: 16px;
+}
+p {
+	padding-left: 12px;
+}
+#meute{
+	padding: 17px;
+	margin: 14px;
+}

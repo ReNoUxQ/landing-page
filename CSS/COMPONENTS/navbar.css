@@ -1,0 +1,28 @@
+.navbar {
+	display: flex;
+	justify-content: space-between;
+	align-content: space-around;
+	padding: 16px;
+}
+.navbar a{
+	font-family: "roboto", sans-serif;
+	font-weight: 400;
+	text-decoration: none;
+	color: 1597E5;
+	font-size: 24px;
+}
+.navbar a:hover{
+	background: blue;
+	padding:  12px 32px;
+	border-radius: 8px;
+	color: white;
+	transition: 0.5s;
+}
+.navbar a{
+	color: var(--tds-nav-item--color);
+    margin: 0 8px;
+    margin: 0 var(--tds-size--1x);
+    transition: color .33s ease;
+    display: flex;
+    align-content: space-between;
+}
